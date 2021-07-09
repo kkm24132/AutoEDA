@@ -40,7 +40,7 @@ D Tale                 | Combination of Flask back-end and React front-end to vi
 
 ## 4. Notebooks / Kernels
 
-Sample Notebooks are kept [here](https://github.com/Accelerate-AI/AutoEDA/tree/main/notebooks)
+Sample Notebooks are kept [here](https://github.com/kkm24132/AutoEDA/tree/main/notebooks)
 
 
 ## 5. Interpretation Summary
