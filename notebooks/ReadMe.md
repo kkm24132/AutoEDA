@@ -5,10 +5,11 @@
   - The converted html file: ``` autoeda-loanprediction-pandasprofiling.html ```
 - [X] DataPrep
   - PDF version of the Jupyter Notebook File: ``` autoeda-loanprediction-dataprep.pdf ```
-  - The Jupyter Notebook and it's converted html file is zipped as consolidated file for reference: ``` autoeda-loanprediction-dataprep.zip ```
+  - The Jupyter Notebook and it's converted html file are both zipped as consolidated file for reference (since it's file size is larger): ``` autoeda-loanprediction-dataprep.zip ```
 - [X] SweetViz
   - Jupyter Notebook File: ``` autoeda-loanprediction-sweetviz.ipynb ```
   - The converted html file: ``` autoeda-loanprediction-sweetviz.html ```
+  - PDF version of the Jupyter Notebook file: ``` autoeda-loanprediction-sweetviz.pdf ```
 
 
 
