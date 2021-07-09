@@ -1,2 +1,2 @@
-**This sub-folder contains all image files**
+**All relevant image files will be placed in this sub-folder**
 
