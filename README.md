@@ -36,7 +36,7 @@ LUX                    | Correlation, Distribution, Occurrence, Geographical ana
 DataPrep               | Distributions, Correlations, Missing Values analysis, Profile Report with various stats, Time series data analysis, Faster than others like Pandas Profiling due to Dask based computing module |<ul> <li> https://pypi.org/project/dataprep/ </li> |
 D Tale                 | Combination of Flask back-end and React front-end to view and analyze Pandas data structures, Integrates with IPython notebooks, supports interactive plots, 3d plots, heat maps, the correlation between features, builds custom columns etc. | <ul> <li> https://pypi.org/project/dtale/ </li>|
 
-**P.S: This may not be an exhaustive list**
+**P.S: This is non-exhaustive list**
 
 ## 4. Notebooks / Kernels
 
