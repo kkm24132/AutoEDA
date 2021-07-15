@@ -1,3 +1,4 @@
+
 ### Notebooks
 
 - [X] Pandas Profiling
@@ -16,8 +17,9 @@
 - [X] LUX
   - The Jupyter Notebook file: ``` autoeda-loanprediction-lux.ipynb ```
   - The converted html file: ``` autoeda-loanprediction-lux.html ```
-- [ ] DTale
-  - To be added
+- [X] DTale
+  - The Jupyter Notebook file: ``` autoeda-loanprediction-dtale.ipynb ```
+  - The converted html file: ``` autoeda-loanprediction-dtale.html ```
 
 
 **P.S.: Please download html files into your local drive and open it to view appropriately. Not all Jupyter Notebook files will reflect all outputs appropriately, hence the HTML and PDF formats are uploaded which are converted using nbconvert utility for better readability**
