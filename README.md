@@ -49,4 +49,6 @@ Sample Notebooks are kept [here](https://github.com/kkm24132/AutoEDA/tree/main/n
 - [X] This helps in saving time significantly as we quickly generate some statistical inferences, insights as part of these reports / outcomes.
 - [X] If the dataset is large, we may use "DataPrep" which seems to be 10X faster than Pandas Profiling as it uses Dask based computing methods.
 - [X] We have used one sample dataset (Loan Eligible / Loan Prediction dataset) for the analysis to demonstrate features of various techniques. These can be used based on scenarios, data context, business need, feasibility etc. These are non-exhaustive list.
+- [X] DTale shows most exhaustive amongst these as it provides user detailed analysis, "Code Expert" is one of the unique feature that it provides. Additionally, it follows 3 key features "Action"-"Visualize"-"Highlight".
+  
 
