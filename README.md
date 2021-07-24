@@ -38,6 +38,8 @@ D Tale                 | Combination of Flask back-end and React front-end to vi
 
 **P.S: This is non-exhaustive list**
 
+PyCaret, Mljar can also be used for Automation capabilities.
+  
 ## 4. Notebooks / Kernels
 
 Sample Notebooks are kept [here](https://github.com/kkm24132/AutoEDA/tree/main/notebooks)
